@@ -41,6 +41,9 @@ function Order() {
       <Grid item xs={6}>
         <OrderedFoodItems />
       </Grid>
+      <Grid>
+        <OrderedFoodItems/>
+      </Grid>
     </Grid>
 
   )
